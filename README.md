@@ -1,4 +1,4 @@
-A dataset containing over 33 million NYC 311 calls was analyzed, with entries spanning from April 6, 2011, to the same date. The dataset was preprocessed, including setting 'Created Date' as the index, converting suitable columns to 'category' and numeric types to optimize memory usage, which, however, did not show a reduction post-optimization (both before and after optimization, the memory usage was 10,517,987,169 bytes).
+A dataset containing over 33 million NYC 311 calls was analyzed, with entries from April 6, 2011. The dataset was preprocessed, including setting 'Created Date' as the index, converting suitable columns to 'category' and numeric types to optimize memory usage.
 
 Key insights derived include:
 
